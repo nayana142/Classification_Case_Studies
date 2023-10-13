@@ -1,5 +1,5 @@
 # Shipping_classification
- ========================
+ =====================================
 
 ## Context:
 An international e-commerce company based wants to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers. The company sells electronic products.
@@ -24,7 +24,7 @@ An international e-commerce company based wants to discover key insights from th
 
 
 # CarInsurance_Classification
-  ===========================
+  =========================================
 ## About :
 This is a dataset from one bank in the United States. Besides usual services, this bank also provides car insurance services. The bank organizes regular campaigns to attract new clients. The bank has potential customers’ data, and bank’s employees call them for advertising available car insurance options. We are provided with general information about clients (age, job, etc.) as well as more specific information about the current insurance sell campaign (communication, last contact day) and previous campaigns (attributes like previous attempts, outcome). 
 ## Context:
