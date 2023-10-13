@@ -49,7 +49,7 @@ This is a dataset from one bank in the United States. Besides usual services, th
       * CallEnd : End time of the last call (HH:MM:SS) 12:43:15
       * NoOfContacts : Number of contacts performed during this campaign for this client
       * DaysPassed : Number of days that passed by after the client was last contacted from a previous campaign (numeric; -1 means client was not previously 
-    contacted)
+        contacted)
       * PrevAttempts : Number of contacts performed before this campaign and for this client
       * Outcome : Outcome of the previous marketing campaign : "failure", "other", "success", “NA”
       * CarInsurance : Has the client subscribed a CarInsurance? :"yes" - 1,"no" - 0
