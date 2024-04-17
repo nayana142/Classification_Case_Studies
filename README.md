@@ -1,5 +1,7 @@
 # Car_Insurance_Classification
   =========================================
+  ![Just-Auto-Insurance-Reviews-The-Pros-and-Cons](https://github.com/nayana142/Classification_Case_Studies/assets/120770261/3cf08e2f-1a42-4cf2-82bf-6a6eebae691c)
+
 ## About :
     This is a dataset from one bank in the United States. Besides usual services, this bank also provides car insurance services. The bank organizes regular campaigns to attract new clients. The bank has potential customers’ data, and bank’s employees call them for advertising available car insurance options. We are provided with general information about clients (age, job, etc.) as well as more specific information about the current insurance sell campaign (communication, last contact day) and previous campaigns (attributes like previous attempts, outcome). 
 ## Context:
@@ -32,6 +34,7 @@
 
 # Shipping_classification
  =====================================
+![PSLArabia-25](https://github.com/nayana142/Classification_Case_Studies/assets/120770261/b24b0d0a-5af2-4251-b4ab-bf610e1c6c30)
 
 ## Context:
     An international e-commerce company based wants to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers. The company sells electronic products.
@@ -57,6 +60,8 @@
 
 # Water Quality Dataset
 =================================
+![inbox_12038776_8b7d6cf60b9cc0d9c5c95fdf21f4a826_Independent-Water-analysis](https://github.com/nayana142/Classification_Case_Studies/assets/120770261/088f59a7-f683-4abc-9106-479c9bed44a3)
+
 > This dataset contains information about water quality features and potability. It consists of 3276 entries with 10 columns:
 
       * pH: pH of the water (measured in pH units).
