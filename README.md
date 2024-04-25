@@ -31,6 +31,27 @@
       * PrevAttempts : Number of contacts performed before this campaign and for this client
       * Outcome : Outcome of the previous marketing campaign : "failure", "other", "success", “NA”
       * CarInsurance : Has the client subscribed a CarInsurance? :"yes" - 1,"no" - 0
+      
+# Consumer's Buying Behavior
+====================================
+![1678257109784](https://github.com/nayana142/Classification_Case_Studies/assets/120770261/343932ea-f6d5-4b62-9f1a-5ee1a182cd96)
+    This dataset can be used to analyze the relationship between age, estimated salary, and purchase behavior in response to the advertisement.
+    The dataset appears to be suitable for binary classification tasks, where the goal might be to predict whether an individual will make a purchase based on age and estimated salary.
+    Exploratory data analysis (EDA) techniques can be applied to understand patterns and correlations within the dataset before building predictive models.
+## Dataset 
+    https://www.kaggle.com/datasets/nitishjolly/consumers-buying-behavior/data
+## Column Descriptions
+    i. Age:
+    Data Type: Integer
+    Description: Represents the age of the individual in years.
+    
+    ii. EstimatedSalary:
+    Data Type: Integer
+    Description: Indicates the estimated salary of the individual.
+    
+    iii. Purchased:
+    Data Type: Integer (0 or 1)
+    Description: Indicates whether the individual made a purchase (1) or not (0) after seeing the advertisement.
 
 # Shipping_classification
  =====================================
